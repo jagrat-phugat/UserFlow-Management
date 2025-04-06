@@ -33,7 +33,7 @@ Ensure the following tools are installed on your system:
 ## Screenshots
 ![Screenshot](https://github.com/jagrat-phugat/UserFlow-Management/blob/main/screenshots/Screenshot%202025-04-06%20123945.png)
 ![Screenshot](https://github.com/jagrat-phugat/UserFlow-Management/blob/main/screenshots/Screenshot%202025-04-06%20124014.png)
-![Screenshot](https://github.com/jagrat-phugat/UserFlow-Management/blob/main/screenshots/Screenshot%202025-04-06%20123027.png)
+![Screenshot](https://github.com/jagrat-phugat/UserFlow-Management/blob/main/screenshots/Screenshot%202025-04-06%20124027.png)
 
 ## Installation
 
